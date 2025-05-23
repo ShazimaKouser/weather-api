@@ -5,7 +5,7 @@
 
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-import WeatherCard from "./components/WeatherCard.JSX";
+import WeatherCard from "./components/WeatherCard.jsx";
 import "../src/index.css"
 
 const App = () => {
